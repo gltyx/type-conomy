@@ -66,7 +66,7 @@ var cnItems = {
     "Mute": "静音",
     "Unmute": "播放",
     "Join the Discord!": "加入 Discord!",
-    "": "",
+    "Upgrade Store": "升级商店",
     "": "",
     "": "",
     "": "",
